@@ -26,7 +26,7 @@
    List of resources used for webDevelopment
    1. JavaScript Libraries.
    
-   * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+      * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
    2. Web Front-End Frameworks:
    
       1. React

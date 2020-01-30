@@ -9,6 +9,7 @@
      * TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
      * [TortoiseGit Manual](https://tortoisegit.org/docs/tortoisegit/)
    * Git-Bash:
+     * Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands.
      * [GitBash Tutorials](https://www.atlassian.com/git/tutorials/git-bash)
    * Visual Studio Code:
      * Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.

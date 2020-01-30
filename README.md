@@ -14,10 +14,13 @@
    * Visual Studio Code:
      * Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
      * [Info regarding Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-     
-
-   * Language: Markdown
+   * Languages:
+     1. Markdown
+     2. HTML
+     3. CSS
      * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+     * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
+     * [CSS cheatshet](https://www.w3schools.com/cssref/)
    
 
 

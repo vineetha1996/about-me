@@ -24,10 +24,18 @@
      * [CSS cheatshet](https://www.w3schools.com/cssref/)
 ## Recommeded Resources:
    List of resources used for webDevelopment
-   * JavaScript Libraries.
+   1. JavaScript Libraries.
      * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-   * Web Front-End Frameworks.
-     * [wiki for React we framework] (https://en.wikipedia.org/wiki/React_(web_framework))
+   2. Web Front-End Frameworks:
+     1. React
+     2. Vue.js 
+     3. ANULAR
+     * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
+   3. Git Clients, Local Dev Environments & Diff Checkers.
+   4. Web Application Frameworks
+     * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework)
+   
+     
    * Databases & CSS Preprocessors.
 ## Contributors:
    * Name: Vineetha Yenugula

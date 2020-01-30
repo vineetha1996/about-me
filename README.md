@@ -18,12 +18,10 @@
      1. Markdown
      2. HTML
      3. CSS
+     4. JavaScript
      * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
      * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
      * [CSS cheatshet](https://www.w3schools.com/cssref/)
-   
-
-
 ## Recommeded Resources:
    List of resources used for webDevelopment
    * JavaScript Libraries.
@@ -31,12 +29,6 @@
    * Web Front-End Frameworks.
      * [wiki for React we framework] (https://en.wikipedia.org/wiki/React_(web_framework))
    * Databases & CSS Preprocessors.
-       
-
-
-
-
-
 ## Contributors:
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science

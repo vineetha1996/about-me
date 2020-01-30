@@ -1,1 +1,9 @@
+Vineetha Yenugula - section 02 - Dr.Denise case / 10am
 
+Hi ,my name is Vineetha Yenugula and I am a new member of Spring 2020 batch working on Masters in Applied Computer Science(MS-ACS).
+
+I am from India,I have majored in my bachelors in Electronics and Communication Engineering (ECE)  in Hyderabad.I have interned at Defence Research and Development Organisation(DRDO) in my Bachelors on topic named Transient electroMagnetic field Using B-Dot and D-Dot sensors. I worked as a software engineer primarily to develop and maintain a testing tool framework for our client's Hadoop cluster.The tool is responsible for running several integration tests and is used for validating production build before release.My hobbies are playing Badminton and spending time in Gym.
+
+My plans for the future is to get in to product based companies like Facebook, Amazon, Netflix, Google (FANG) work as a full stack developer in Web Development. 
+
+Interesting fact about me is, as I told you before, I'm from Electronics background and i have no idea about computer science but after getting experience in my job I really liked programming the way we analyse an issue to solve and I'm passionate to get in to product based companies but i lack formal exposure to core computer science areas and i'll excel those core subjects in my Master of Science(MS).

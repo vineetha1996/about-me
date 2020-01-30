@@ -25,19 +25,15 @@
 ## Recommeded Resources:
    List of resources used for webDevelopment
    1. JavaScript Libraries.
-   
-      * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+       * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
    2. Web Front-End Frameworks:
-   
-      1. React
-      2. Vue.js 
-      3. ANULAR
-     
-      * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
+       1. React
+       2. Vue.js 
+       3. ANULAR
+       * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
    3. Git Clients, Local Dev Environments & Diff Checkers.
    4. Web Application Frameworks
-      
-      * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 
+       * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 
    5. Databases & CSS Preprocessors.
 ## Contributors:
    * Name: Vineetha Yenugula

@@ -10,6 +10,9 @@
      * [TortoiseGit Manual](https://tortoisegit.org/docs/tortoisegit/)
    * Git-Bash:
      * [GitBash Tutorials](https://www.atlassian.com/git/tutorials/git-bash)
+   * Visual Studio Code:
+     * Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
+     * [Info regarding Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio_Code)
      
 
    * Language: Markdown

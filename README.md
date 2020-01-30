@@ -6,7 +6,7 @@
    This repo is used to get hands on practice of how to commit, pull,push,clone and publish repositories.
 ## Recommended Tools:
    * TortoiseGit:
-     TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
+     * TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
      * [TortoiseGit Manual](https://tortoisegit.org/docs/tortoisegit/)
    * Git-Bash:
      * [GitBash Tutorials](https://www.atlassian.com/git/tutorials/git-bash)
@@ -31,9 +31,9 @@
 
 
 ## Contributors:
-   Name: Vineetha Yenugula
-   Degree Program : Applied computer Science
-   My Favorite Image: 
+   * Name: Vineetha Yenugula
+   * Degree Program : Applied computer Science
+   * My Favorite Image: 
 
 
 

@@ -30,7 +30,7 @@
        1. React
        2. Vue.js 
        3. ANGULAR
-      * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
+      * [Top FrontEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
    3. Git Clients, Local Dev Environments & Diff Checkers.
    4. Web Application Frameworks
       * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 

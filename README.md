@@ -30,7 +30,7 @@
    2. Web Front-End Frameworks:
        1. React
        2. Vue.js 
-       3. ANULAR
+       3. ANGULAR
        * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
    3. Git Clients, Local Dev Environments & Diff Checkers.
    4. Web Application Frameworks
@@ -40,7 +40,7 @@
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science
    * My Favorite Image:
-       * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
+        * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
 
 
 

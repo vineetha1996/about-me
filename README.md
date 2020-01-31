@@ -1,7 +1,7 @@
 #  about-me
 ## Repository Links
-   * 
-   * 
+   * (source repository)[https://github.com/vineetha1996/about-me] 
+   * (hosted page)[https://vineetha1996.github.io/about-me/]
 ## About:
    This repo is used to get hands on practice of how to commit, pull,push,clone and publish repositories.This gave ma knowledge of list of resources used for WebDevelopment.
 ## Recommended Tools:

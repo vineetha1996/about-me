@@ -1,4 +1,4 @@
-#  about-me
+# about-me
 ## Repository Links
    * [source repository](https://github.com/vineetha1996/about-me)
    * [hosted page](https://vineetha1996.github.io/about-me/)
@@ -19,27 +19,27 @@
      2. HTML
      3. CSS
      4. JavaScript
-       * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
-       * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
-       * [CSS cheatshet](https://www.w3schools.com/cssref/)
+     * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+     * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
+     * [CSS cheatshet](https://www.w3schools.com/cssref/)
 ## Recommeded Resources   
    List of resources used for WebDevelopment
    1. JavaScript Libraries.
-       * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+     * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
    2. Web Front-End Frameworks:
        1. React
        2. Vue.js 
        3. ANGULAR
-       * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
+     * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
    3. Git Clients, Local Dev Environments & Diff Checkers.
    4. Web Application Frameworks
-       * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 
+     * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 
    5. Databases & CSS Preprocessors.
 ## Contributors
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science
    * My Favorite Image:
-        * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
+     * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
 
 
 

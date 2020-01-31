@@ -30,7 +30,7 @@ Hi, I am vineetha Yenugula.
  ## Recommeded Resources   
    * [Data camp](https://instructor-support.datacamp.com/en/articles/2336337-markdown-tutorial)
    * [codecademy](https://www.codecademy.com/learn)
-   * [stackoverflow] (https://stackoverflow.com/)
+   * [stackoverflow](https://stackoverflow.com/)
   
 
 ## Contributors

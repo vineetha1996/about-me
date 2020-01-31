@@ -1,9 +1,12 @@
 # about-me
+
 ## Repository Links
    * [source repository](https://github.com/vineetha1996/about-me)
    * [hosted page](https://vineetha1996.github.io/about-me/)
+
 ## About
    This repo is used to get hands on practice of how to commit, pull,push,clone and publish repositories.This gave me a knowledge of list of resources used for WebDevelopment.
+
 ## Recommended Tools
    * TortoiseGit:
      * TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
@@ -22,6 +25,7 @@
      * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
      * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
      * [CSS cheatshet](https://www.w3schools.com/cssref/)
+
 ## Recommeded Resources   
    List of resources used for WebDevelopment
    1. JavaScript Libraries.
@@ -35,6 +39,7 @@
    4. Web Application Frameworks
       * [about web application Framework](https://www.scnsoft.com/blog/web-application-framework) 
    5. Databases & CSS Preprocessors.
+
 ## Contributors
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science

@@ -3,7 +3,7 @@
    * 
    * 
 ## About:
-   This repo is used to get hands on practice of how to commit, pull,push,clone and publish repositories.
+   This repo is used to get hands on practice of how to commit, pull,push,clone and publish repositories.This gave ma knowledge of list of resources used for WebDevelopment.
 ## Recommended Tools:
    * TortoiseGit:
      * TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN. It is free software released under the GNU General Public License.
@@ -19,14 +19,14 @@
      2. HTML
      3. CSS
      4. JavaScript
-     * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
-     * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
-     * [CSS cheatshet](https://www.w3schools.com/cssref/)
+       * [Markdown cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+       * [HTML cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
+       * [CSS cheatshet](https://www.w3schools.com/cssref/)
 
 ## Recommeded Resources:   
-     List of resources used for webDevelopment
+   List of resources used for WebDevelopment
    1. JavaScript Libraries.
-      * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+       * [wiki of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
    2. Web Front-End Frameworks:
        1. React
        2. Vue.js 
@@ -40,7 +40,7 @@
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science
    * My Favorite Image:
-     * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
+       * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
 
 
 

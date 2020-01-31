@@ -39,7 +39,7 @@
    * Name: Vineetha Yenugula
    * Degree Program : Applied computer Science
    * My Favorite Image:
-     * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
+       * [my favorite image](https://github.com/vineetha1996/about-me/blob/master/IMG_1232.JPG)
 
 
 

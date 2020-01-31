@@ -1,4 +1,4 @@
-# about-me
+#  about-me
 ## Repository Links
    * 
    * 
@@ -34,7 +34,6 @@
        2. Vue.js 
        3. ANULAR
        * [Top FronEnd Frameworks](https://existek.com/blog/top-front-end-frameworks-2020/) 
-       
    3. Git Clients, Local Dev Environments & Diff Checkers.
    
    4. Web Application Frameworks
